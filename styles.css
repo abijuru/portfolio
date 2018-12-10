@@ -36,5 +36,7 @@ nav{
         html{
             background-color: khaki;
         }
-
-        
+#footer{
+    font-size:20px;
+      color:burlywood;  
+}
