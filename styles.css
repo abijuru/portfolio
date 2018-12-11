@@ -30,8 +30,8 @@ nav{
         }
         #photo{
             text-align:center;
-            padding:20px;
-            
+            padding:60px;
+            border: 2px of solid black
         }
         html{
             background-color: khaki;
